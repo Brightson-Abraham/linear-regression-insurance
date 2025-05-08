@@ -45,7 +45,7 @@ To build and evaluate a linear regression model that accurately predicts insuran
 
 ## 📁 Files in This Repository
 
-- `insurance_premium_prediction.ipynb` – main notebook
+- `LINEAR REGRESSION-Insurance Premium.ipynb` – main notebook
 - `insurance.csv` – dataset (if included)
 - `README.md` – project overview
 
