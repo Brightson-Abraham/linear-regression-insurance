@@ -32,7 +32,7 @@ To build and evaluate a linear regression model that accurately predicts insuran
 
 ## 📈 Sample Results
 
-- Achieved an R² score of **X.XX** on test data
+- Achieved an R² score of **0.73** on test data
 - Identified smoking and BMI as major cost-driving factors
 
 ---
